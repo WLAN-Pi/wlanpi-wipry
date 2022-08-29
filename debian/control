@@ -1,0 +1,14 @@
+Source: wlanpi-wipry
+Section: embedded
+Priority: optional
+Maintainer: Adrian Granados <adrian@intuitibits.com>
+Build-Depends: debhelper (>=9)
+Homepage: https://github.com/WLAN-Pi/wlanpi-wipry
+
+Package: wlanpi-wipry
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, libusb-1.0-0
+Description: WLAN Pi distribution of wipry_raw
+ This package contains the 'wipry_raw' tool which allows you to dump spectral
+ data from an Oscium WiPry Clarity spectrum analyzer.

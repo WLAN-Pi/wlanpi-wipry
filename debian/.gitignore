@@ -1,0 +1,5 @@
+wlanpi-wipry.*.debhelper
+wlanpi-wipry.substvars
+debhelper*
+files
+*.log
