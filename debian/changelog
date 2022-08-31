@@ -1,3 +1,9 @@
+wlanpi-wipry (1.0.1) stable; urgency=medium
+
+  * Enable passwordless sudo privileges for wipry_raw
+
+ -- Adrian Granados <adrian@intuitibits.com>  Wed, 31 Aug 2022 16:58:38 -0500
+
 wlanpi-wipry (1.0.0) stable; urgency=medium
 
   * Initial release

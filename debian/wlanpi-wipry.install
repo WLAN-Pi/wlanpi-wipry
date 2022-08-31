@@ -1,1 +1,2 @@
-wipry_raw usr/bin/
+/usr/bin/wipry_raw usr/bin/
+etc/sudoers.d/wipry etc/sudoers.d/

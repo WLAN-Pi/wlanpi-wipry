@@ -1,0 +1,1 @@
+wlanpi ALL = (root) NOPASSWD: /usr/bin/wipry_raw
