@@ -9,6 +9,6 @@ Package: wlanpi-wipry
 Architecture: arm64 armhf
 Multi-Arch: foreign
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: WLAN Pi distribution of wipry_raw
+Description: WLAN Pi - distribution for wipry_raw
  This package contains the 'wipry_raw' tool which allows you to dump spectral
  data from an Oscium WiPry Clarity spectrum analyzer.
