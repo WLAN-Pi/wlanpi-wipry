@@ -1,3 +1,9 @@
+wlanpi-wipry (1.0.2) unstable; urgency=medium
+
+  * Build for bookworm
+
+ -- Josh Schmelzle <josh@joshschmelzle.com> Fri, 31 Jan 2025 00:00:00 -0500
+
 wlanpi-wipry (1.0.1) stable; urgency=medium
 
   * Enable passwordless sudo privileges for wipry_raw
