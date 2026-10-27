@@ -2,12 +2,12 @@ Source: wlanpi-wipry
 Section: utils
 Priority: optional
 Maintainer: Adrian Granados <adrian@intuitibits.com>
-Uploaders: 
-Build-Depends: debhelper (>=9), libusb-1.0-0
+Build-Depends: debhelper-compat (= 13), libusb-1.0-0
+Standards-Version: 4.7.2
 Homepage: https://github.com/WLAN-Pi/wlanpi-wipry
 
 Package: wlanpi-wipry
-Architecture: arm64 armhf
+Architecture: arm64
 Multi-Arch: foreign
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: WLAN Pi - distribution for wipry_raw
